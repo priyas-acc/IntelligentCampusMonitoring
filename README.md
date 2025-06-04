@@ -19,7 +19,7 @@ Our mini project develops an AI-driven facial recognition system to automate rea
 The alert system flags students entering or exiting without faculty notification, ensuring timely administrative actions. This reduces manual workload, enhances campus security, and offers scalable monitoring solutions for educational institutions.
 
 ## System Flowchart
-![System Flowchart](images/System_Workflow.png)
+![System Flowchart](images/System_Workflow.pdf)
 
 ## Future Enhancements & Opportunities for Optimization ⚙️
 
